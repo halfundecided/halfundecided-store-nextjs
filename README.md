@@ -22,4 +22,6 @@ eCommerce PWA Built with NextJS and GraphCMS
   + rendered it on the back-end first, and then copy HTML and send it to the client (the front-end)
 - [x] Links and Navigation
   + Nextjs has their own linking and routing systems
+- [x] Shared Components 
+- [ ] Dynamic Pages
 
