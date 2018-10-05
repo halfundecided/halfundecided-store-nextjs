@@ -15,4 +15,8 @@ eCommerce PWA Built with NextJS and GraphCMS
   + Next: 데이터들이 렌더 되기 전에 서버가 모든 데이터를 수집하고 plain html로 보여줌 = page가 back-end에서 생성된다. 
   + Old react: small amount of html with js file (when this js file loaded on the client, it will quickly create the page)
   + **does not change the page until the page has data** --> Goal
+- [ ] Creating a NextJS App
+  + `yarn init`
+  + `yarn add react react-dom next`
+  + 
 
