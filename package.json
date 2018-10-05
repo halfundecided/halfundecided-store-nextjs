@@ -14,5 +14,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start"
+  },
+  "devDependencies": {
+    "@types/next": "^7.0.0"
   }
 }

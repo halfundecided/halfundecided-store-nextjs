@@ -19,5 +19,7 @@ eCommerce PWA Built with NextJS and GraphCMS
   + `yarn init`
   + `yarn add react react-dom next`
   + `yarn dev` 
-  + rendered in back-end first, and then showing things in front-end
+  + rendered it on the back-end first, and then copy HTML and send it to the client (the front-end)
+- [x] Links and Navigation
+  + Nextjs has their own linking and routing systems
 
